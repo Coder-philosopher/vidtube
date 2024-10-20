@@ -1,4 +1,7 @@
 ./node_modules/
 ./package.json
 ./questions.txt
+./dist
+*.env
 .env
+.env.*
