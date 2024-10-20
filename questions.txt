@@ -1,0 +1,6 @@
+#This file contain Question Related to this project
+
+1.) user.controllers.js mein hai
+2.)multer.middlewares.js ye file kya karti hai
+2.)auth.middlewares.js ye file kya karti hai
+3.)user.routes.js mein hai
